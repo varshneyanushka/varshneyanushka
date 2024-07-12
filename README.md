@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anushka Varshny</h1>
+<h1 align="center">Hi 👋, I'm Anushka Varshney</h1>
 
 <h3 align="center">A passionate Developer pursuing my Engineering Degree from IIT Indore</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1045693/screenshots/9177955/media/78b33c5b809606a66172ba0d79ab4c1c.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshneyanushka&label=Profile%20views&color=0e75b6&style=flat" alt="varshneyanushka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshneyanushka" alt="varshneyanushka" /></a> </p>
