@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshneyanushka&label=Profile%20views&color=0e75b6&style=flat" alt="varshneyanushka" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://varshneyanushka.github.io/portfolio/](https://varshneyanushka.github.io/portfolio/)
+- 👩🏻‍💻 All of my projects are available at [https://varshneyanushka.github.io/portfolio/](https://varshneyanushka.github.io/portfolio/)
 
-- 📫 How to reach me **anushka.pkg@gmail.com**
+- 📫 send me a message at **anushka.pkg@gmail.com**
 
 - ⚡ Fun fact **I love binge watching sitcoms**
 
